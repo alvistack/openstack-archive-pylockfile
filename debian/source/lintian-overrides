@@ -1,0 +1,4 @@
+python-lockfile source: file-without-copyright-information
+python-lockfile source: no-debian-changes
+python-lockfile source: source-contains-prebuilt-windows-binary
+python-lockfile source: source-package-encodes-python-version

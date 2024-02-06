@@ -6,6 +6,8 @@ doc/build
 AUTHORS
 ChangeLog
 *.egg
-pylockfile.egg-info
+*.egg-info
 cover
 .coverage
+
+.pybuild/
